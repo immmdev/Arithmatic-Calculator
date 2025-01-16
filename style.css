@@ -1,0 +1,326 @@
+body{
+    background-color: rgb(2, 23, 23);
+}
+.outer{
+    height: 450px;
+    width: 350px;
+    background-color: aqua;
+    position: relative;
+    top:50px;
+    left:600px;
+    border-radius:20px;
+    box-shadow: 4px 4px 3px 3px rgb(17, 230, 230);
+    border-color: rgb(8, 142, 142);
+    box-shadow: 10px 10px 20px rgba(67, 223, 251, 0.5);
+    border:2px solid rgb(15, 188, 188)
+    
+};  
+
+#screen{
+    background-color: rgb(14, 231, 234);
+    height: 100px;
+    width: 200px;
+}
+
+input{
+   position: relative;
+   top:35px;
+   left:300px;
+   font-size:large;
+   font-weight:500;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 80px;
+    width:320px;
+    background-color:aliceblue;
+    position: relative;
+    top:20px;
+    left:13px;
+    border-radius:10px;
+    margin-bottom:30px;
+    border-color: aquamarine;
+    border: 2px solid rgb(12, 165, 165);
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+}
+.row1{
+    height: 80px;
+    width: 320px;
+    position: relative;
+    left:13px;
+    background-color:aqua;
+    display:flex;
+    border-radius: 10px;
+}
+ #del{
+    height:70px;
+    width: 100px;
+    background-color: rgb(8, 112, 128);
+    margin: 5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #allclear{
+    height:70px;
+    width:100px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    margin-left: 0px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #equal{
+    height:70px;
+    width:100px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    margin-left: 0px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ .row2{
+    margin:5px;
+    height: 60px;
+    width: 320px;
+    position: relative;
+    left:7.1px;
+    background-color:aqua;
+    display:flex;
+    border-radius: 10px;
+    margin-bottom: 0px;
+ }
+
+ #zero{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #one{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #two{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #pie{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ .row3{
+    height: 60px;
+    width: 320px;
+    position: relative;
+    left:13px;
+    background-color:aqua;
+    display:flex;
+    border-radius: 10px;
+
+ }
+
+ #three{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+    
+ }
+
+ #four{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #five{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #modulus{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ .row4{
+    height: 60px;
+    width: 320px;
+    position: relative;
+    left:13px;
+    background-color:aqua;
+    display:flex;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+
+ }
+ #modulus{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #six{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #seven{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+#eight{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #multiply{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ .row5{
+    height: 60px;
+    width: 320px;
+    position: relative;
+    left:13px;
+    background-color:aqua;
+    display:flex;
+    border-radius: 10px;
+
+ }
+
+ #nine{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #sqrt{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #sub{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+ #add{
+    height:50px;
+    width:80px;
+    background-color: rgb(8, 112, 128);
+    margin:5px;
+    border-radius:10px;
+    margin-left: 0px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.5);
+ }
+
+
+.button{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.calc{
+    position: relative;
+    top:35px;
+    left:300px;
+    font-size:large;
+    font-weight:500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-weight:500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    text-align: center;
+    color:aliceblue
+}
+
+.footer{
+   color:aliceblue;
+   position:relative;
+   top:100px;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+   color:red;
+}
